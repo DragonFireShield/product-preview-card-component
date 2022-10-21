@@ -45,7 +45,6 @@ Focus on making more card designs in different orientations and sizes to get a s
 
 ## Author
 
-- GitHub - [@dragonfireshield](https://github.com/DragonFireShield)
 - Frontend Mentor - [@dragonfireshield](https://www.frontendmentor.io/profile/dragonfireshield)
 - Twitter - [@shieldfordragon](https://www.twitter.com/shieldfordragon)
 
